@@ -1,3 +1,4 @@
+
 package t1_d1_zadania_domowe;
 
 import java.util.Arrays;
@@ -48,5 +49,4 @@ public class Main3 {
 		result=rand.nextInt(howMuch)+1;
 		return result;
 	}
-
 }

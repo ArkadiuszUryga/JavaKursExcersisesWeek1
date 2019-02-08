@@ -1,3 +1,4 @@
+
 package t1_d1_zadania_domowe;
 //W pliku `Main2.java` umieść metodę o sygnaturze `static boolean divisibleBy(int a, int b )`: 
 //
@@ -19,3 +20,6 @@ public class Main2 {
 	}
 
 }
+
+
+

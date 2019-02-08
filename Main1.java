@@ -1,3 +1,4 @@
+
 package t1_d1_zadania_domowe;
 //W pliku `Main1.java` umieść metodę o sygnaturze `static double dogAge(double dogAge)` , która przeliczy wiek psa w psich latach. 
 //
@@ -30,5 +31,6 @@ public class Main1 {
 		return humanAge;
 		
 	}
+
 
 }
